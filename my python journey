@@ -1,0 +1,9 @@
+name = "Iqra Javed"
+university = "UMT"
+age = 18
+learning_python = True
+
+print("Name:", name)
+print("University:", university)
+print("Age:", age)
+print("Learning Python:", learning_python)
